@@ -1,7 +1,7 @@
 // This is the fragment shader I used to create my profile picture.
-// This code uses the glslViewer conventions for time, etc.
+// This code uses the glslCanvas conventions for time, etc.
 // You can run this shader by copying this code, 
-// and running it in a glslViewer complient shader engine,
+// and running it in a glslCanvas compliant shader engine,
 // like the one here: http://editor.thebookofshaders.com/
 
 // Author: RAYMARCHER, UNIQUE
