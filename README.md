@@ -1,4 +1,5 @@
-# Isaac Clayton
+### About
+
 Currently in my last year of high school, I'm a Software Architect interested in Reinforcement Learning, Programming Language Design, and Graphics Programming. I have a [website](https://slightknack.dev) where I [write occationally](https://www.slightknack.dev/blog). I'm always open to chat, so why not drop by and [say hello](mailto:hello@slightknack.dev)?
 
 ### What are you working on?
