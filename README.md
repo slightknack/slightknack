@@ -1,24 +1,6 @@
-```
-+- scroll this way --> -----------------------+---------------------------------+----------------------------------------------+---------------------------------------+---------------------------------------------------+
-|                _                            |         _                 _     |                      _                       |                   _             _     |          ___           _   _           _   _      |
-|  __      _____| | ___ ___  _ __ ___   ___   |    __ _| |__   ___  _   _| |_   |  __      _____  _ __| | __                   |    ___ ___  _ __ | |_ __ _  ___| |_   |      .-"`   `"-.      | |_| |__   __ _| |_( ___   |
-|  \ \ /\ / / _ | |/ __/ _ \| '_ ` _ \ / _ \  |   / _` | '_ \ / _ \| | | | __|  |  \ \ /\ / / _ \| '__| |/ /                   |   / __/ _ \| '_ \| __/ _` |/ __| __|  |    .'           '.    | __| '_ \ / _` | __|/ __|  |
-|   \ V  V |  __| | (_| (_) | | | | | |  __/  |  | (_| | |_) | (_) | |_| | |_   |   \ V  V | (_) | |  |   <                    |  | (_| (_) | | | | || (_| | (__| |_   |   /               \   | |_| | | | (_| | |_ \__ \  |
-|    \_/\_/ \___|_|\___\___/|_| |_| |_|\___|  |   \__,_|_.__/ \___/ \__,_|\__|  |    \_/\_/ \___/|_|  |_|\_\                   |   \___\___/|_| |_|\__\__,_|\___|\__|  |  /  #              \   \__|_| |_|\__,_|\__||___/  |
-|                                             |                          ___    |                                              |                                       |  | #               |         _ _                  |
-|  ----> to my little corner of github <----  |  Currently in my last   |[_]|   |  In my free time, I     computer vision      |  ---> elsewhere on the internet <---  |  |                 |    __ _| | |                 |
-|                                             |  year of high school,   |+ ;|   |  develop Passerine, a   probelms and         |                                       |  ;     .-~~~-.     ;   / _` | | |                 |
-|       _________       Hey, it's nice to     |  I'm a Software         `---'   |  quick embeddable       programmed GPUs.     |  Anywhere -------------> slightknack  |   ;     )   (     ;   | (_| | | |_                |
-|      / ======= \      meet you! My name is  |  Architect interested     ___   |  programming language                        |                                       |    \   (     )   /     \__,_|_|_( )               |
-|     /___________\     Isaac Clayton, and I  |  in Reinforcement        |[_]|  |  of sorts. I also       I really love the    |  Twitter -------------> @slightknack  |     \   \   /   /       __      |/ _        _     |
-|    | ___________ |    really like program-  |  Learning, Programming   |+ ;|  |  maintain the toy       ethos of the hacker  |                                       |      \   ) (   /       / _| ___ | | | _____| |    |
-|    | |         | |    ming language design  |  Language Design, and    `---'  |  rendering engine       spirit and the       |  Website ----------> slightknack.dev  |       |  | |  |       | |_ / _ \| | |/ / __| |    |
-|    | | >readme | |                          |  Graphics Programming.   ___    |  Keikan, as well as a   community surround-  |                                       |       |__|_|__|       |  _| (_) | |   <\__ |_|    |
-|    | |_________| |    I decided to spice    |  After graduating,      |[_]|   |  few other projects.    ing open source.     |  Discord ---------> slightknack#4221  |       {=======}       |_|  \___/|_|_|\_|___(_)    |
-|    \_____________/    things up with a bit  |  I'll be studying ML    |+ ;|   |                         I think that it's    |                                       |       }======={                                   |
-|    / """"""""""" \    with an ASCII-art     |  and PLT at MIT.        `---'   |  This past summer I     fun and helpful to   |  Email ------> hello@slightknack.dev  |       {=======}       I hope you enjoyed          |
-|   / ::::::::::::: \   readme. So, scroll    |                                 |  interned at tonari     build the tools you  |                                       |       }======={       this format, even if        |
-|  (_________________)  right to learn more!  |  Here's what I'm up to ------>  |  where I tackled        use in public <3     |  Matrix -----> @slightknack:envs.net  |       {=======}       it was different :P         |
-|                                             |                                 |                                              |                                       |        `""u""`                                    |
-+---------------------------------------------+---------------------------------+----------------------------------------------+---------------------------------------+---------------------------------------------------+
-```
+### About
+
+Currently in my last year of high school, I'm a [Software Architect](https://apenwarr.ca/log/20201227) interested in Reinforcement Learning, Programming Language Design, and Graphics Programming. After graduating, I'll be studying ML/PLT at [MIT](https://www.csail.mit.edu/). If you'd like to learn more [about me](https://slightknack.dev/about), I have a [website](https://slightknack.dev) where I [write occationally](https://www.slightknack.dev/blog). I'm always open to chat, so why not [shoot me an email](mailto:hello@slightknack.dev)?
+
+### What are you working on?
+In my free time, I develop [Passerine](https://github.com/vrtbl/passerine), a quick embeddable programming language of sorts, which is currently undergoing a [big refactor](https://github.com/vrtbl/passerine/pull/52) that I hope to merge in by July. I also maintain the toy rendering engine [Keikan](https://github.com/slightknack/keikan), as well as a few other projects.
