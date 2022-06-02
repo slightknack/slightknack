@@ -1,4 +1,5 @@
-Currently in my last year of high school, I'm a [Software Architect](https://apenwarr.ca/log/20201227) interested in Reinforcement Learning, Programming Language Design, and Graphics Programming. After graduating, I'll be studying ML/PLT at [MIT](https://www.csail.mit.edu/). If you'd like to learn more [about me](https://slightknack.dev/about), I have a [website](https://slightknack.dev) where I [write occationally](https://www.slightknack.dev/blog). I'm always open to chat, so why not [shoot me an email](mailto:hello@slightknack.dev)?
+### Who *are* you?
+[I'm a](https://slightknack.dev/about) [Software Architect](https://apenwarr.ca/log/20201227) [interested in](https://slightknack.dev) [Reinforcement Learning,](https://www.alignmentforum.org/s/Rm6oQRJJmhGCcLvxh/p/i3BTagvt3HbPMx6PN) [Programming Language Design,](https://github.com/vrtbl/passerine) [and Graphics Programming.](https://github.com/slightknack/keikan)
 
-### What are you working on?
-In my free time, I develop [Passerine](https://github.com/vrtbl/passerine), a quick embeddable programming language of sorts, which is currently undergoing a [big refactor](https://github.com/vrtbl/passerine/pull/52) that I hope to merge in by July. I also maintain the toy rendering engine [Keikan](https://github.com/slightknack/keikan), as well as a few other projects.
+### What*cha* doin'?
+This summer I'm working at [Zed](https://zed.dev) on their collaborative text editor. In my free time I develop [Passerine](https://passerine.io)—a neat little programming language of sorts—which is currently undergoing a ~~big refactor~~ [massive rewrite](https://github.com/vrtbl/passerine/pull/52).
